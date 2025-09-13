@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Arjun was here, And edited this file in VS code
+Arjun was here, And edited this file in VS code.
 
 ## 🤓 Course overview and learning outcomes 
 
